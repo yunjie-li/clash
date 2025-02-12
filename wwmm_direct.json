@@ -1,9 +1,6 @@
 {
   "rules": [
     {
-      "domain": [
-      
-      ],
       "domain_keyword": [
         "binance",
         "bitget"
@@ -12,11 +9,6 @@
         "fifazero.com",
         "masterlise.com",
         "okx.com"
-      ]
-    },
-    {
-      "process_name": [
-        
       ]
     }
   ],

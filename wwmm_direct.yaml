@@ -1,0 +1,26 @@
+payload:
+  - DOMAIN-SUFFIX,okx.com
+  - DOMAIN-KEYWORD,binance
+  - DOMAIN-KEYWORD,bitget
+  - DOMAIN-SUFFIX,immortalwrt.org
+  - DOMAIN-SUFFIX,vsean.net
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,github.boki.moe
+  - DOMAIN-SUFFIX,gh-proxy.com
+  - DOMAIN-SUFFIX,ghfast.top
+  - DOMAIN-SUFFIX,catsxp.com
+  - DOMAIN-KEYWORD,synology
+  - DOMAIN-KEYWORD,quickconnect
+  - DOMAIN-SUFFIX,checkip.dyndns.org
+  - DOMAIN-SUFFIX,checkipv6.dyndns.org
+  - DOMAIN-SUFFIX,ifconfig.co
+  - DOMAIN-SUFFIX,api.myip.com
+  - DOMAIN-SUFFIX,ipapi.co
+  - DOMAIN-SUFFIX,ip6.seeip.org
+  - DOMAIN-SUFFIX,members.3322.org
+  - DOMAIN-SUFFIX,kit327.com
+  - DOMAIN-SUFFIX,dell.com
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,cloudflarestorage.com
+  - DOMAIN-SUFFIX,cursor.sh
+  - DOMAIN-SUFFIX,cursor.com

@@ -1,5 +1,3 @@
-DOMAIN-SUFFIX,fifazero.com
-DOMAIN-SUFFIX,masterlise.com
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,roboform.com
 DOMAIN-SUFFIX,m2exchange.com
@@ -8,8 +6,10 @@ DOMAIN-SUFFIX,douyinvod.com
 DOMAIN-SUFFIX,plext.tv
 DOMAIN-SUFFIX,hkvpn.m2.com
 DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,slack.com
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,bitget
+DOMAIN,m2-com.atlassian.net
 
 # NAME: Custom_Direct
 # AUTHOR: Aethersailor

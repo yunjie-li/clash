@@ -4,10 +4,9 @@ DOMAIN-SUFFIX,m2exchange.com
 DOMAIN-SUFFIX,m2devops.com
 DOMAIN-SUFFIX,douyinvod.com
 DOMAIN-SUFFIX,plext.tv
-DOMAIN-SUFFIX,hkvpn.m2.com
+DOMAIN-SUFFIX,*vpn.m2.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,slack.com
-DOMAIN-SUFFIX,monica.im
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,bitget
 DOMAIN,m2-com.atlassian.net

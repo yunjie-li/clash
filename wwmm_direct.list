@@ -50,8 +50,6 @@ DOMAIN-SUFFIX,kit327.com
 # Dell
 DOMAIN-SUFFIX,dell.com
 # Cloudflare
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,argotunnel.com
 
 # IPTV 相关

@@ -14,16 +14,6 @@ DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,bitget
 DOMAIN,m2-com.atlassian.net
 
-DOMAIN-SUFFIX,cursor.sh
-DOMAIN-SUFFIX,cursor-cdn.com
-DOMAIN-SUFFIX,cursorapi.com
-DOMAIN-SUFFIX,cursor.com
-DOMAIN-SUFFIX,workos.com
-
-# NAME: Custom_Direct
-# AUTHOR: Aethersailor
-# REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
-
 # ImmortalWrt 在线更新服务
 # DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
 # ImmortalWrt 软件仓库

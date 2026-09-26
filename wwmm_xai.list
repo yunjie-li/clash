@@ -1,5 +1,10 @@
 DOMAIN-SUFFIX,grokipedia.com
+
 # Muse
 DOMAIN-SUFFIX,muse.ai
 DOMAIN-SUFFIX,museai.com
 DOMAIN-SUFFIX,ecto1.ai
+
+# gemini
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleapis.cn

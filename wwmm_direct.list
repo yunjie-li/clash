@@ -58,3 +58,12 @@ DOMAIN-SUFFIX,yusen6.ccwu.cc
 DOMAIN-SUFFIX,yusen.us.ci
 DOMAIN-SUFFIX,yusen.cc.cd
 
+
+# WWMM
+DOMAIN,aios.wwmm.date,DIRECT
+DOMAIN,bw.wwmm.date,DIRECT
+DOMAIN,sc.wwmm.date,DIRECT
+DOMAIN,sh.wwmm.date,DIRECT
+DOMAIN,vidora-yt.wwmm.date,DIRECT
+DOMAIN,vidora-emby.wwmm.date,DIRECT
+DOMAIN,tv.wwmm.date,DIRECT

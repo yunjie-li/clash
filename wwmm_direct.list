@@ -61,7 +61,12 @@ DOMAIN-SUFFIX,yd.emby.syemby.com,DIRECT
 DOMAIN-SUFFIX,cmecloud.cn,DIRECT
 DOMAIN-SUFFIX,139.com,DIRECT
 
-
+# PT
+DOMAIN-SUFFIX,hdwing.org,DIRECT
+DOMAIN-SUFFIX,hhanclub.net,DIRECT
+DOMAIN-SUFFIX,kp.m-team.cc,DIRECT
+DOMAIN-SUFFIX,ptchdbits.co,DIRECT
+DOMAIN-SUFFIX,totheglory.im,DIRECT
 
 # WWMM
 DOMAIN,aios.wwmm.date
